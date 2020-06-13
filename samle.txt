@@ -1,14 +1,5 @@
 aaaaaaaaaa
-
 bbbbbbb
-
-
 cccc
-
-
 dddd
-
-
-uuu
-
-masterでいじる
+uuumasterでいじる
