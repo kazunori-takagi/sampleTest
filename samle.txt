@@ -6,3 +6,4 @@ uuumasterでいじる
 
 dev1で修正
 dev2で修正
+macかつdev3
